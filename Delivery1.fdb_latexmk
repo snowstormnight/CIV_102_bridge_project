@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1699760724 "/Users/snows/Education/University of Toronto/Courses/1st year/Fall session/CIV102H1 Structures and Materials - An Introduction to Engineering Design/Project/Github/Delivery1.tex" "Delivery1.pdf" "Delivery1" 1699760725 0
-  "/Users/snows/Education/University of Toronto/Courses/1st year/Fall session/CIV102H1 Structures and Materials - An Introduction to Engineering Design/Project/Github/Delivery1.tex" 1699760724 2730 8c50838e69d7bf88ccc4919f1b9bc311 ""
+["pdflatex"] 1699763206 "/Users/snows/Education/University of Toronto/Courses/1st year/Fall session/CIV102H1 Structures and Materials - An Introduction to Engineering Design/Project/Github/Delivery1.tex" "Delivery1.pdf" "Delivery1" 1699763206 0
+  "/Users/snows/Education/University of Toronto/Courses/1st year/Fall session/CIV102H1 Structures and Materials - An Introduction to Engineering Design/Project/Github/Delivery1.tex" 1699763206 2735 769250396e9128e79ae5ecd3fc4d879d ""
   "/usr/local/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc" 1165713224 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1136768653 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -69,8 +69,8 @@
   "/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1697739632 4623355 b8cad38412faebe1ce5b780a45db67bd ""
   "/usr/local/texlive/2023/texmf-var/web2c/pdftex/pdflatex.fmt" 1697739617 7883459 7c1ae512ad1d4c8fa8445621ad9507c2 ""
   "/usr/local/texlive/2023/texmf.cnf" 1678822455 577 1b2b1af17af2508fb20dd85783af4050 ""
-  "Delivery1.aux" 1699760725 580 b8e303aa5c55f08a5f39047ab97d9812 "pdflatex"
-  "Delivery1.tex" 1699760724 2730 8c50838e69d7bf88ccc4919f1b9bc311 ""
+  "Delivery1.aux" 1699763206 580 b8e303aa5c55f08a5f39047ab97d9812 "pdflatex"
+  "Delivery1.tex" 1699763206 2735 769250396e9128e79ae5ecd3fc4d879d ""
   "Delivery_1_FBD.png" 1699590324 124483 aa1fe46bdb476b0e6e87d14ff4add05d ""
   "Delivery_1_SFD&FBD.png" 1699590363 80097 657111c979116416cd712f82e8126ddb ""
   "m_and_centorid.png" 1699759342 66430 4ee2a0a2b2fe98e2e23a5a4e2cb424bf ""
